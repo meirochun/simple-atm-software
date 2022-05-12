@@ -1,0 +1,15 @@
+C:\Users\meiro\Documents\GitHub\simple-atm-software\bin\Debug\net6.0\simple-atm-software.exe
+C:\Users\meiro\Documents\GitHub\simple-atm-software\bin\Debug\net6.0\simple-atm-software.deps.json
+C:\Users\meiro\Documents\GitHub\simple-atm-software\bin\Debug\net6.0\simple-atm-software.runtimeconfig.json
+C:\Users\meiro\Documents\GitHub\simple-atm-software\bin\Debug\net6.0\simple-atm-software.dll
+C:\Users\meiro\Documents\GitHub\simple-atm-software\bin\Debug\net6.0\simple-atm-software.pdb
+C:\Users\meiro\Documents\GitHub\simple-atm-software\obj\Debug\net6.0\simple-atm-software.csproj.AssemblyReference.cache
+C:\Users\meiro\Documents\GitHub\simple-atm-software\obj\Debug\net6.0\simple-atm-software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meiro\Documents\GitHub\simple-atm-software\obj\Debug\net6.0\simple-atm-software.AssemblyInfoInputs.cache
+C:\Users\meiro\Documents\GitHub\simple-atm-software\obj\Debug\net6.0\simple-atm-software.AssemblyInfo.cs
+C:\Users\meiro\Documents\GitHub\simple-atm-software\obj\Debug\net6.0\simple-atm-software.csproj.CoreCompileInputs.cache
+C:\Users\meiro\Documents\GitHub\simple-atm-software\obj\Debug\net6.0\simple-atm-software.dll
+C:\Users\meiro\Documents\GitHub\simple-atm-software\obj\Debug\net6.0\refint\simple-atm-software.dll
+C:\Users\meiro\Documents\GitHub\simple-atm-software\obj\Debug\net6.0\simple-atm-software.pdb
+C:\Users\meiro\Documents\GitHub\simple-atm-software\obj\Debug\net6.0\simple-atm-software.genruntimeconfig.cache
+C:\Users\meiro\Documents\GitHub\simple-atm-software\obj\Debug\net6.0\ref\simple-atm-software.dll
